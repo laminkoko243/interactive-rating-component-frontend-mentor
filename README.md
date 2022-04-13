@@ -1,6 +1,3 @@
-# interactive-rating-component-frontend-mentor
-A challenge from frontendmentor.io to pactice HTML, CSS , JS and jQuery skills
-
 # Frontend Mentor - Interactive rating component solution
 
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -52,7 +49,7 @@ Users should be able to:
 ## Author
 
 - Website - [La Min Ko Ko](https://www.laminkoko.com)
-- Frontend Mentor - [@La Min Ko Ko](https://www.frontendmentor.io/profile/laminkoko243)
+- Frontend Mentor - [La Min Ko Ko](https://www.frontendmentor.io/profile/laminkoko243)
 - Twitter - [La Min Ko Ko(https://www.twitter.com/laminkoko243)
 - LinkedIn - [La Min Ko Ko] (https://www.linkedin.com/laminkoko)
 - Facebook - [La Min Ko Ko] (https://www.facebook.com/laminkoko243)
